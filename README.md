@@ -17,3 +17,14 @@ Starts backend server.
 
 Start frontend server.
 Open [http://127.0.0.1:5173/](http://127.0.0.1:5173/) to view it in the browser.
+
+## Implementation
+
+### Contacts List
+![contacts_list](Screenshots/contacts_list.png)
+
+### Add Contact
+![add_function](Screenshots/add_function.png)
+
+### Update Contact
+![update_function](Screenshots/update_function.png)
