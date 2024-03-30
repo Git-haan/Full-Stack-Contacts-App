@@ -11,6 +11,8 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  gap: 3em;
 }
 
 body {
@@ -61,5 +63,3 @@ label {
   margin-bottom: 0.5em;
   margin-block: 1em;
 }
-
-
